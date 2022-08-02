@@ -3,7 +3,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ACFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I'm+a+FrontEnd+Developer;I'm+from+Bahia+-+Brazil;My+favorite+programming+languages+are+...;TypeScript+and+Java;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ACFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I'm+a+FrontEnd+Developer;I'm+from+Bahia+-+Brazil;My+favorites+programming+languages+are+...;TypeScript+and+Java;)](https://git.io/typing-svg)
 
 </div>
 <br><br>
