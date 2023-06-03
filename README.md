@@ -3,7 +3,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ACFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I'm+a+FrontEnd+Developer;I'm+from+Bahia+-+Brazil;My+favorites+programming+languages+are+...;TypeScript+and+Java;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ACFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I'm+a+BackEnd+Developer;I'm+from+Bahia+-+Brazil;My+favorites+programming+languages+are+...;TypeScript+and+Java;)](https://git.io/typing-svg)
 
 </div>
 <br><br>
@@ -42,10 +42,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 <br>
 
-# Studying in this moment:
-
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-<br>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
