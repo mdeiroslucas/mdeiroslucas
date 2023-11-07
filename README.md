@@ -19,12 +19,6 @@
 
 <br><br>
 
-<div align="center">
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=mdeiroslucas&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
 <br><br>
 
 # Skills:
